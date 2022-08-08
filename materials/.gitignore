@@ -1,0 +1,8 @@
+__pycache__
+.DS_Store
+*.pyc
+**/.ipynb_checkpoints
+*.mp4
+**/joblib
+*.data
+**/data
